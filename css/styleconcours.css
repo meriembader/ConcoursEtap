@@ -1,0 +1,23 @@
+
+h4 {
+    font-weight: bold;
+    color: #000099;
+}
+
+span.rec {
+
+    background-color: #ffcc00;
+    padding: 9px 16px;
+    margin-top: -20px;
+    margin-right: -224px;
+    color: #000099;
+    font-weight: bold;
+
+    /* background-color: #ffcc00;
+    padding: 9px 16px;
+    margin-right: -293px;
+    margin-top: -20px;
+	color : #000099;
+	font-weight: bold; */
+}
+
